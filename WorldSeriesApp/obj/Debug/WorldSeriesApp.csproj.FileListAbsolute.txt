@@ -1,0 +1,9 @@
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\bin\Debug\WorldSeriesApp.exe.config
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\bin\Debug\WorldSeriesApp.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\bin\Debug\WorldSeriesApp.pdb
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\obj\Debug\WorldSeriesApp.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\obj\Debug\WorldSeriesApp.Form1.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\obj\Debug\WorldSeriesApp.Properties.Resources.resources
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\obj\Debug\WorldSeriesApp.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\obj\Debug\WorldSeriesApp.exe
+C:\Users\Ian\Desktop\Code\Programing Projects\C#\WorldSeriesApp\obj\Debug\WorldSeriesApp.pdb
